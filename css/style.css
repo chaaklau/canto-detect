@@ -1,0 +1,51 @@
+body {
+    background-color: #FFFFFF;
+}
+
+#inputbox, #word_result, #char_result {
+  font-family: "I.B. Ming, Song, Kaiti";
+  font-size: 20px;
+  text-align: left;
+}
+
+.highlight-hard {
+  text-decoration-color: yellow
+}
+
+.highlight-bad {
+ text-decoration-color: red 
+}
+
+.annotatedbox {
+  margin: 20px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.gr_-9 { background-color: #BBBB00; }
+.gr_-8 { background-color: #BBBB11; }
+.gr_-7 { background-color: #CCCC22; }
+.gr_-6 { background-color: #CCCC33; }
+.gr_-5 { background-color: #DDDD44; }
+.gr_-4 { background-color: #DDDD55; }
+.gr_-3 { background-color: #EEEE77; }
+.gr_-2 { background-color: #EEEE99; }
+.gr_-1 { background-color: #FFFFCC; }
+.gr_0  { background-color: #FFFFFF; }
+.gr_1  { background-color: #CCEEEE; }
+.gr_2  { background-color: #99EEEE; }
+.gr_3  { background-color: #77DDDD; }
+.gr_4  { background-color: #55DDDD; }
+.gr_5  { background-color: #44CCCC; }
+.gr_6  { background-color: #33CCCC; }
+.gr_7  { background-color: #22BBBB; }
+.gr_8  { background-color: #11BBBB; }
+.gr_9  { background-color: #00AAAA; }
+
+.yue__1 { color: rgb(106, 10, 10); font-weight: 800; background-color: pink}
+.yue__2 { color: rgb(105, 49, 49); font-weight: 600; background-color: pink}
+.hkzh__1 { color: rgb(34, 54, 7); font-weight: 800;  background-color: yellow}
+.hkzh__2 { color: rgb(65, 90, 32); font-weight: 600;  background-color: yellow}
+
+.warning_a { background-color: #FFAAAA }
+.warning_b { background-color: #999999; color: #FF0000  }
