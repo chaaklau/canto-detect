@@ -21,7 +21,7 @@ function init() {
 
 function reparse() {
     word_result.innerHTML = word_result.parser.parse(inputbox.value);
-    //reclassify();
+    reclassify();
     statistics.innerHTML = updateStat();
 }
 
